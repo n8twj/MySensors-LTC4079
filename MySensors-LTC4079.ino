@@ -5,7 +5,7 @@
 #define MY_RF24_CE_PIN 7
 #define MY_RF24_CS_PIN 8
 
-#define MY_NODE_ID 10
+#define MY_NODE_ID 10  // STATIC Node Assignment
 
 #include <MySensors.h>
 
